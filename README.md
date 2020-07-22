@@ -1,4 +1,3 @@
-![title](./Desktop/tokyo.jpg)
 
 # Exploratory-Data-Analysis-House
 
